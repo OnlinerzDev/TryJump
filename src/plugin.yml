@@ -1,0 +1,8 @@
+main: at.onlinerz.tryjump.TryJump
+author: Onlinerz
+version: 1.0
+name: TryJumpMode
+
+commands:
+   skip:
+      description: Stimme um die Wartezeit in der Shoppingphase zu verkuerzen
